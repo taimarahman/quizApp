@@ -1,7 +1,6 @@
 package com.project.quizApp.controller;
 
-import com.project.quizApp.Questions;
-import com.project.quizApp.dao.QuestionDao;
+import com.project.quizApp.model.Questions;
 import com.project.quizApp.service.QuestionService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

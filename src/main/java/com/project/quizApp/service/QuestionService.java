@@ -1,10 +1,9 @@
 package com.project.quizApp.service;
 
-import com.project.quizApp.Questions;
+import com.project.quizApp.model.Questions;
 import com.project.quizApp.dao.QuestionDao;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
-import org.springframework.http.HttpStatusCode;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
